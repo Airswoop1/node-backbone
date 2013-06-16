@@ -2,7 +2,7 @@
 
 It is a sample project for a Node/HTML5 application optimized separately for desktop browsers (web), generic mobile platforms using jQuery Mobile (jquerymobile) and iPhone (iphone). Its server side project is based on [robrighter / node-boilerplate](https://github.com/robrighter/node-boilerplate) and its client side projects are based on [ccoenraets / backbone-directory](https://github.com/ccoenraets/backbone-directory).
 
-### [Try It Here](http://nodebackbone-vinkaga.dotcloud.com/) ###
+### [Try It Here](http://node-backbone.aws.af.cm/) ###
 Try it out for different devices using Google Chrome's built-in user-agent switcher. [Read more.](http://www.learnwithnirab.com/2012/01/how-to-use-google-chromes-built-in-user.html)
 
 ## Goals ##
